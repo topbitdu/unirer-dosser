@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors     = [ 'Topbit Du' ]
   spec.email       = [ 'topbit.du@gmail.com' ]
   spec.homepage    = 'https://github.com/topbitdu/unirer-dosser'
-  spec.summary     = 'The Dosser resource representation engine includes JSON and XML resource representation templates.'
+  spec.summary     = 'Dosser Resource Representation Engine Dosser(领域特定语意表现)资源表现引擎'
   spec.description = 'Unirer (UNIfied Resource Representation) is a series of resource representation engines. The Dosser (DOmain-Specific SEmantic Representation) resource representation engine includes JSON and XML resource representation templates. Unirer (统一资源表现)是一系列的资源表现引擎。Dosser (领域特定语意表现) 资源表现引擎包括JSON和XML表现模版。'
   spec.license     = 'MIT'
 
