@@ -10,6 +10,10 @@ Unirer (统一资源表现)是一系列的资源表现引擎。Dosser (领域特
 Dosser pre-defined some glossaries for RESTful Web API, which follows the Template Method design pattern.
 Dosser 预定义了一些适用于 RESTful Web API 的词汇，并且采用了“模版方法”设计模式。
 
+## Recent Update
+Check out the [Road Map](ROADMAP.md) to find out what's the next.
+Check out the [Change Log](CHANGELOG.md) to find out what's new.
+
 ## Usage in Gemfile
 ```ruby
 gem 'unirer-dosser'
