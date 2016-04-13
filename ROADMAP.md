@@ -4,4 +4,7 @@
 1. Resource Representation concern
 
 ## v0.2
-1. Replaced the #meta field with the #meta.criteria field.
+1. Replaced the #meta field with the #meta.criteria field
+
+## v0.3
+1. Deprecate the Resource Representation concern
