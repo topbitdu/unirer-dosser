@@ -5,7 +5,7 @@
 
 Unirer (UNIfied REsource Representation) is a series of resource representation engines. The Dosser (DOmain-Specific SEmantic Representation) resource representation engine includes JSON and XML resource representation templates.
 Unirer (统一资源表现)是一系列的资源表现引擎。Dosser (领域特定语意表现) 资源表现引擎包括JSON和XML表现模版。
-This gem is deprecated. Please use [repres-dosser](https://github.com/topbitdu/repres-dosser) instead.
+This gem is deprecated. Please use [repres-dosser](https://github.com/topbitdu/repres-dosser) [![Gem Version](https://badge.fury.io/rb/repres-dosser.svg)](https://badge.fury.io/rb/repres-dosser) instead.
 
 ## Why Use Unirer Dosser
 Dosser pre-defined some glossaries for RESTful Web API, which follows the Template Method design pattern.
