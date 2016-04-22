@@ -5,3 +5,6 @@
 
 ## v0.2
 1. Replaced the #meta field with the #meta.criteria field.
+
+## v0.3
+1. Deprecated this Ruby Gem to use [Repres Dosser](https://badge.fury.io/rb/repres-dosser) instead

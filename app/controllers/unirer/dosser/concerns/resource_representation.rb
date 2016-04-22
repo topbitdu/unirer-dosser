@@ -127,6 +127,8 @@ module Unirer::Dosser::Concerns::ResourceRepresentation
 
     private :respond_result
 
+    deprecate respond_result: :'Repres::Dosser::Concerns::ResourcePresentation#respond_result', deprecator: ActiveSupport::Deprecation.new('0.3', 'unirer-dosser')
+
   end
 
 end
